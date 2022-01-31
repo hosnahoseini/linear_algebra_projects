@@ -4,3 +4,5 @@
 - project 2 : apply some filter and images manipulation by *Matrix operations*
 - project 3 : find *LEAST-SQUARES* solution and predict number of covid cases
 - project 4 : Face recognition with *SVD factorization*
+
+P.S. Project issue statement is availabe in "LA Project #.pdf" in each folder.
